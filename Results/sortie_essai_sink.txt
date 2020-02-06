@@ -1,0 +1,24 @@
+[1] "Sauvegarde"
+[1] "Sauvegarde"
+[1] "Sauvegarde"
+[1] "Sauvegarde"
+[1] "Traitement"
+[1] "Sauvegarde"
+[1] "Fini =)"
+[1] "Le nouveau résultat est: 19.4904561233911"
+[1] "Traitement"
+[1] "Sauvegarde"
+[1] "Fini =)"
+[1] "Le nouveau rÃ©sultat est: 19.4904561233911"
+ [1] 0 0 0 0 0 0 0 0 0 0
+function (length = 0L) 
+.Internal(vector("double", length))
+<bytecode: 0x000000000a876d48>
+<environment: namespace:base>
+function (length = 0L) 
+.Internal(vector("double", length))
+<bytecode: 0x000000000a876d48>
+<environment: namespace:base>
+[1] 1 1 1
+function (...)  .Primitive("c")
+[1] 1 2 3
